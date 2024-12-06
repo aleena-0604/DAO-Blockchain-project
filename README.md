@@ -93,7 +93,8 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 📞 Contact
 
 Your Name - Aleena B Prem
-Project Link: [https://github.com/yourusername/dao-platform](https://github.com/yourusername/dao-platform)
+
+Project Link: https://github.com/aleena-0604/DAO-Blockchain-project.git
 
 ## 🙏 Acknowledgments
 
