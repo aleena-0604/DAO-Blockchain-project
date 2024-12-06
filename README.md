@@ -92,8 +92,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
+Your Name - Aleena B Prem
 Project Link: [https://github.com/yourusername/dao-platform](https://github.com/yourusername/dao-platform)
 
 ## 🙏 Acknowledgments
